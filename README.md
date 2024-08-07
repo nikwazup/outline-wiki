@@ -8,11 +8,12 @@ This repository contains the configuration files needed to set up an instance of
 ## Steps to Set Up
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/nikwazup/outline-wiki.git
 cd outline-wiki
 ```
-```
+
 ### 2. Update the `.env` File
 
 Use the `.env.sample` from the official Outline repository to choose your `.env` variables. My suggestion is to use Discord authentication and SMTP for email configuration.
