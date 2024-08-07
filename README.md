@@ -5,9 +5,14 @@ Here's a `README.md` for your GitHub repository:
 
 This repository contains the configuration files needed to set up an instance of the Outline wiki.
 
+```
+
 ## Steps to Set Up
 
+
 ### 1. Clone the Repository
+
+
 
 ```bash
 git clone https://github.com/nikwazup/outline-wiki.git
